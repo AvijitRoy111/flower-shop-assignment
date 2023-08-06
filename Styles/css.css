@@ -265,3 +265,40 @@ body{
     font-size: 20px;
     font-weight: 700;
 }
+
+/* footer section style */
+.fooder{
+    width: 100%;
+    height: 449px;
+    background: #111010;
+    
+}
+.fooder-title{
+    text-align: center;
+    justify-content: space-between;
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    margin-top: 120px;
+    padding-top:150px ;
+}
+.fooder-title span{
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+.fooder-descrption{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-right: 470px;
+    margin-left: 470px;
+}
+.fooder-daail{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
